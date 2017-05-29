@@ -38,7 +38,7 @@ Jenkins Bamboo Travis CI Buildbot Strider Go Integrity
 
 questão 9
 
-#Consiste no empacotamento de um sistema para promovê-lo de desenvolvimento para QA (Quality Assurance) e, posteriormente, para produção.
+Consiste no empacotamento de um sistema para promovê-lo de desenvolvimento para QA (Quality Assurance) e, posteriormente, para produção.
 
 questão 10
 
